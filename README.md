@@ -8,7 +8,7 @@
   <h3 align="center">Adventures of Santa</h3>
 
   <p align="center">
-    A Simple Youtube Downloader developed using Pytube (Python Library) to download Youtube Videos 🎥
+    A Simple 2D Platformer game.
     <br />
     
   </p>
