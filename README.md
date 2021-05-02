@@ -1,10 +1,11 @@
 
-<br />
+<!-- <br> -->
 <p align="center">
-  <a href="https://github.com/Assertor1/Adventures-of-Santa">
-<!--     <img src="https://github.com/Adventures-of-Santa/blob/master/image.png" > -->
-    ![](image.png)
-  </a>
+<!--   <a href="https://github.com/Assertor1/Adventures-of-Santa"> -->
+<!--     <img src="https://github.com/Adventures-of-Santa/blob/master/image.png" > -->   
+<!--   </a> -->
+  
+  ![](image.png)
 
   <h3 align="center">Adventures of Santa</h3>
 
